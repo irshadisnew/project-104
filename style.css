@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+    color: gray;
+}
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+.object{
+    color: cyan;
+}
+#camera ,#result{
+    width: 350px;
+    height: 350px;
+    border: 2px dashed grey;
+}
